@@ -13,7 +13,7 @@
 | ![Image](<https://github.com/MeowthyVoyager/HNsummary/blob/main/demo/demox1.png>) |  ![Image](<https://raw.githubusercontent.com/MeowthyVoyager/HNsummary/main/demo/demox2.png>) |
 |----------|:-------------:|
 
-### Steps to manually install it, cause do you really want someone else to have your OpeanAI keys?
+### Steps to manually install it, cause do you really want someone else to have your OpenAI keys?
 
 [Steps to set it up](https://github.com/MeowthyVoyager/HNsummary/blob/main/demo/steps/steps.md)
 
@@ -23,4 +23,4 @@
 
 [Check out this repo](https://github.com/bishalpaudel/hnsummarizer)
 
-#### It works by writing summary of all new posts to a database, then you fetch the summary of posts from the api, instead of multiple people generating the same summary
+#### It works by writing summary of all new posts to a database, then you fetch the summary of posts from an API, instead of multiple people generating the same summary
