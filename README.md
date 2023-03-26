@@ -10,7 +10,7 @@
 
 
 
-| ![Image](<https://github.com/MeowthyVoyager/HNsummary/blob/main/demo/demox1.png>) |  ![Image](<https://raw.githubusercontent.com/MeowthyVoyager/HNsummary/main/demo/demox2.png>) |
+| ![Image](<https://raw.githubusercontent.com/MeowthyVoyager/HNsummary/main/demo/demox1.png>) |  ![Image](<https://raw.githubusercontent.com/MeowthyVoyager/HNsummary/main/demo/demox2.png>) |
 |----------|:-------------:|
 
 ### Steps to manually install it, cause do you really want someone else to have your OpenAI keys?
