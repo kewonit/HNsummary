@@ -4,11 +4,6 @@
  This extension summarizes articles on Hacker News using openAI api.
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MeowthyVoyager/HNsummary/main/demo/demo.gif" alt="GIF"/>
-</p>
-
-
 
 | ![Image](<https://raw.githubusercontent.com/MeowthyVoyager/HNsummary/main/demo/demox1.png>) |  ![Image](<https://raw.githubusercontent.com/MeowthyVoyager/HNsummary/main/demo/demox2.png>) |
 |----------|:-------------:|
