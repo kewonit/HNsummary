@@ -1,7 +1,7 @@
 {
-  "name": "Hacker News Summarizer using OPENAI API",
+  "name": "Hacker News Summarizer using OpenAI API",
   "version": "1.0.0",
-  "description": "This extension summarizes articles on Hacker News using OPENAI GPT API.",
+  "description": "This extension summarizes articles on Hacker News using OpenAI API.",
   "manifest_version": 3,
   "author": "MeowthyVoyager",
   "action": {
