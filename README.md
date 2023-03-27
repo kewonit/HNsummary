@@ -1,7 +1,7 @@
-# Like it? Give it a⭐
+# This extension summarizes articles on Hacker News using openAI api.
 
 <p align="center">
- This extension summarizes articles on Hacker News using openAI api.
+  Like it? Give it a⭐ 
 </p>
 
 
@@ -18,4 +18,14 @@
 
 [Check out this repo](https://github.com/bishalpaudel/hnsummarizer)
 
-#### It works by writing summary of all new posts to a database, then you fetch the summary of posts from an API, instead of multiple people generating the same summary
+#### The above works by writing summary of all new posts to a database, then you fetch the summary of posts from an API, instead of multiple people generating the same summary
+
+<hr>
+
+#### Disclaimer: This extension uses OpenAI API to generate summaries of the article. This extension is not affiliated with OpenAI or Hacker News.
+
+<hr>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MeowthyVoyager/HNsummary/main/demo/demo.gif" alt="GIF"/>
+</p>
